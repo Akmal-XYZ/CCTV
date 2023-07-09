@@ -1,1 +1,1 @@
-# CCTV
+pip install colorama
